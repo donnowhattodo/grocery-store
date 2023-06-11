@@ -18,5 +18,5 @@ Instructions:
 2. Import the provided database schema into your MySQL server.
 3. Configure the database connection parameters in the PHP code.
 4. Run the application by accessing the PHP file in a web browser.
-5. 
+
 The project repository contains the complete source code and database schema, allowing you to customize and extend the application based on your specific requirements. Feel free to explore and enhance the application further to meet your grocery store management needs.
